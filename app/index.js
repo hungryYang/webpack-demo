@@ -1,4 +1,5 @@
 import _ from 'lodash'
+import $ from 'jquery'
 function component () {
     var element = document.createElement('div');
 
